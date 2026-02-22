@@ -18,7 +18,7 @@ No CSS or JavaScript is used.
 - Dashboard Logout -> Login (`dashboard.html` -> `login.html`)
 
 ## GitHub Repository
-https://github.com/gous-gzone/-html-authentication-poc.git
+https://github.com/reddyshreya116-rs/-html-authentication-poc.git
 
 ## Notes
 - This repository is public.
